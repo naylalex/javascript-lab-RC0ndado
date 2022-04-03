@@ -12,7 +12,7 @@ const nombre = document.querySelector('p');
 nombre.addEventListener('click', updateName);
 
 function updateName() {
-    console.log("My name is Ricardo Condado")
+    console.log("My name is Ricardo Condado");
     //var namelo=document.getElementById(htmlID);
     const nombres = prompt('Nombre: ');             // Este es como un tipo input.
     nombre.textContent = `Nombre 1: ${nombres}`; 
