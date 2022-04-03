@@ -15,5 +15,8 @@ Implementa una regla para el elemento <p> considerando variantes a los siguiente
 
 */
 p {
-    font-family:'Lucida Sans'
+    font-size:  20px;
+    font-family:'Lucida Sans'; /* ????? */
+    
 }
+
