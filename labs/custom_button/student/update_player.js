@@ -8,4 +8,6 @@ Asignación del contenido de texto del párrafo por medio del atributo textConte
 para.textContent = 'Some string'
 */
 function updateName() {
+    console.log("My name is Ricardo Condado")
+    var namelo=document.getElementById(htmlID);
 }
